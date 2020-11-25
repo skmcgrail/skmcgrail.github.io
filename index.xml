@@ -5,10 +5,6 @@
     <link>https://araiguma.dev/</link>
     <description>Recent content on araiguma.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://araiguma.dev/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://araiguma.dev/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
